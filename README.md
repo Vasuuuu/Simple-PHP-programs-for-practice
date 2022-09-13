@@ -1,6 +1,8 @@
 # Simple-PHP-programs-for-practice
 ## To run this program 
-* Install ***Xampp***
+* Install ***XAMPP***
+* Start ***XAMPP Control Panel***
+* Click on the ***Start*** button next to ***Apache*** & ***MySQL***
 * Go to drive where Xampp is located 
 * Open Xampp
 * Go to ***htdocs***
